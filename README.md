@@ -17,4 +17,4 @@ The Player tries to guess a randomly generated number.
 3. Open the Python file.
 4. Run the program using Python.
 ## GitHub Repository
-https://github.com/rg4591287-sy/Number-Guessing-Game
+https://github.com/rg4591387-sy/Number-Guessing-Game.git
